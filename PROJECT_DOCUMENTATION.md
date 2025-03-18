@@ -60,9 +60,52 @@ I do think that this project will take a few weeks to do, mainly each level uses
 
 
 
-
-
-
 # **Requirements Outline**
-### Functional Requirements
-* Usability
+### <u>Functional Requirements</u>
+\
+**Purpose of the Application**
+
+The video game allows users to experience each character’s story through their book and explore the environment and situations they faced. This application is designed to promote the book through the variety of levels, each a different story, and engage with fans because of the large fanbase that enjoy the series.
+
+**Uses Cases**
+\
+Users start the game and choose which level to play if they’ve already unlocked it, each labelled with the book and character it is related to. Once in the game, players can pause the game to return to the level page, adjust the volume and restart a level. This lets users have more personalised controls and can leave whenever they want. The game also has a character screen, which is accessed from the splash screen, where players can view all the dragons with a book about them, and a description of that character for old and new fans to read about. Users can also change the background of the main menu to different environments such as underwater, in forests and the desert, to fit with the large variety of settings of the book series.
+
+**Test Cases**
+\
+Test Case 1: When the user selects ‘Play’, the application will direct them to the ‘Level’ menu.
+Testing: Self-Testing
+Test Case 2: When the user selects a level, the application will direct them to the level if they have unlocked it.
+Testing: Self-Testing
+Test Case 3: When the user presses Escape on the keyboard during a game, the pause menu will appear, allowing the user to change their settings or leave.
+Testing: Self-Testing
+Test Case 4: When the user selects “Dragon Information” in the splash screen, the application will open up a character menu with description of the 15 book protagonists of the series.
+Testing: Self-Testing
+
+
+### <u>Non-Functional Requirements</u>
+
+**Performance**\
+The application will be fast and smooth, with the loading time between screens occurring within one second.
+
+**Usability**\
+The application will have large readable text with button outlines and bright colours for easy accessibility.
+
+**Reliability**\
+The application will be tested across multiple devices and tested to ensure it is consistent and bug free.
+
+**Security**\
+The app does not collect any user data and does not include any login data or user feedback forms.
+
+
+# **Social, Ethical and Legal Issues**
+### <u>Social Impact</u>
+* **Target Audience Considerations**\
+This application is available for the larger majority of the audience, and is created with accessibilities in mind. There are large texts, clear instructions, simple controls and simple animations to ensure users can play comfortably.
+* **Potential Benefits**\
+This project positively encourages users to read through the whole series, as it is one huge amazing story broken into arcs and books, each focusing on each character’s journey through obstacles and internal struggles. It will encourage fans to discuss how vast the setting is, with its two continents Pyrrhia and Pantala. It brings attention to the detail Tui. T. Sutherland put into the series for the best immersion for each book, a great topic for fans to talk about, fostering the community of fans for Wings of Fire.
+* **Potential Risks**\
+hi
+
+
+
