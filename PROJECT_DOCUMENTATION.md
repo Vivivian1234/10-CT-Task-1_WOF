@@ -8,7 +8,7 @@
 ### <u>**1. Design brief**</u>
 ### **Provide an overview of your project, including the book you have chosen, the type of user experience you are creating (e.g., website, app, video game), and your target audience.**
 \
-My project is a video game based on the book series Wings of Fire, and is targeted towards young children to middle aged teenagers. It will be a 2D platformer game with multiple levels based on each book in the series. Wings of Fire is a series where each book is in a different character’s POV, so each level will be designed and planned based on what progressed in their book.
+My project is a video game based on the book series Wings of Fire, and is targeted towards young children to middle aged teenagers. It will be a 2D exploration platform game with multiple levels based on each book in the series. Wings of Fire is a series where each book is in a different character’s POV, so each level will be designed and planned based on what progressed in their book.
 
 ### <u>**2. Book choice and Justification**</u>
 ### **Identify the name of the book and author.**
@@ -27,7 +27,7 @@ The whole Wings of Fire series explores a lot of places, meets a lot of new char
 ### **Identify what format your project will take (Website, app, video game, interactive story, etc.).**
 ### **Explain how this format will enhance the story or themes of the book.**
 \
-The format of my project is a 2D platform video game made in Unity, and the aim of the game is to progress through each level of each different dragon throughout the series. I chose this format because the Wings of Fire series is so captivating that it would be hard to convey all the great points in an app or website in just words. Being able to play through the characters really shows the reader what they had to experience and achieve through their story and how it results in victory in the end.
+The format of my project is a 2D exploration platform video game made in Unity, and the aim of the game is to progress through each level of each different dragon throughout the series. I chose this format because the Wings of Fire series is so captivating that it would be hard to convey all the great points in an app or website in just words. Being able to play through the characters really shows the reader what they had to experience and achieve through their story and how it results in victory in the end.
 
 
 ### <u>**4. Target market**</u>
@@ -52,12 +52,12 @@ I will use Unity to create my project as it is a video game, fitting in the adve
 ### **Identify key themes, design elements, and user interactions relevant to your project.**
 ### **Evaluate each branch by considering its feasibility, impact, and effectiveness before making design decisions.**
 \
-![image](images/Screenshot 2025-03-07 105423.png)
+![Wings_Of_Fire_MINDMAP](/images/Wings_Of_Fire_MINDMAP.png "Wings of Fire Mindmap")
+
 \
-The key themes of my game it’s its immersive environmental settings, as each level is designed and based on each novel in the series. It focuses on each character’s journey through their stories, which is why it is very peaceful compared to other 2D platformer games. The aim of the game is just to travel through each character’s level to the end, reflecting on the challenges that have happened throughout the books.
+The key themes of my game it’s its immersive environmental settings, as each level is designed and based on each novel in the series. It focuses on each character’s journey through their stories, which is why it is very peaceful compared to other 2D platform games. The aim of the game is just to travel through each character’s level to the end, reflecting on the challenges that have happened throughout the books.
 
 I do think that this project will take a few weeks to do, mainly each level uses different elements and backgrounds, but I do believe that this is feasible. I hope that the hard work I put into this project will create a good result and effectively engage players into it.
-
 
 
 # **Requirements Outline**
@@ -95,7 +95,7 @@ The application will have large readable text with button outlines and bright co
 The application will be tested across multiple devices and tested to ensure it is consistent and bug free.
 
 **Security**\
-The app does not collect any user data and does not include any login data or user feedback forms.
+The app only collects user data related to the user's progress. The app does not include any login data or user feedback forms.
 
 
 # **Social, Ethical and Legal Issues**
@@ -105,7 +105,51 @@ This application is available for the larger majority of the audience, and is cr
 * **Potential Benefits**\
 This project positively encourages users to read through the whole series, as it is one huge amazing story broken into arcs and books, each focusing on each character’s journey through obstacles and internal struggles. It will encourage fans to discuss how vast the setting is, with its two continents Pyrrhia and Pantala. It brings attention to the detail Tui. T. Sutherland put into the series for the best immersion for each book, a great topic for fans to talk about, fostering the community of fans for Wings of Fire.
 * **Potential Risks**\
-hi
+Since the book’s setting is in a fantasy world where the story and protagonists are dragons, the designs do not include misrepresentation or exclusion of groups, as the seven dragon tribes all look similar to their respective environment. The book contains some themes in the book of war, family and corrupted ideas for power, but majority of them will not be included in this game, except possibly non-graphic images of a dragon lying on the ground (dead) for extremely important story parts.
+
+### <u>Ethical Responsibilities</u>
+* **User Data & Privacy**\
+The prototype will only carry user data related to the user’s game progression, which only includes the levels unlocked and collectibles collected. The data will be handled responsibly with private domains to ensure all data is kept secure.
+* **Representation & Inclusion**\
+This project accurately represents the characters, themes and ideas from the series without any misgenderisation or exclusion. Because of the simplicity of this game, there are limited ideas of each character and level, it will be represented as fairly as possible.
+* **Content Sensitivity**\
+The book does contain controversial topics such as violence and discrimination but the prototype will not include these because it will be a 2D exploration platform game with no dialogue, so there could be no controversial topics involved as the purpose of the game is to travel through different environments.
+
+### <u>Legal Considerations</u>
+* **Copyright & Intellectual Property**\
+My project does use book inspirations and images as the spirits are based on the official drawings, and the project’s story will follow the series’ story as well. However, this falls under fair use. I am not earning any money from this nor am I publishing this.
+
+My assets will be inspired by the official drawings, so I will credit the official artist and any other external sources I use.
+
+# **Gant Chart**
+
+# **Researching Existing UIs**
+
+| UI name | Plus | Minus | Implication |
+|---------|------|-------|------------|
+| hi | a | b | c |
+| bye | d | e | f |
+| cya | g| h | i |
 
 
 
+
+
+
+# **Research Software Options**
+
+| Software Options | Plus | Minus | Implication |
+|---------|------|-------|------------|
+| hi | a | b | c |
+| bye | d | e | f |
+| cya | g| h | i |
+
+# **Wireframes**
+
+**Feedback**\
+hiii
+
+\
+**Evaluate Feedback**\
+wassup
+man im cooked yahoo
