@@ -121,14 +121,14 @@ My project does use book inspirations and images as the spirits are based on the
 
 My assets will be inspired by the official drawings, so I will credit the official artist and any other external sources I use.
 
-# **Gant Chart**
+# **Gantt Chart**
 
 # **Researching Existing UIs**
 
 | UI name | Plus | Minus | Implication |
 |---------|------|-------|------------|
-| hi | a | b | c |
-| bye | d | e | f |
+| YouTube | Very easy to use with a neat sidebar navigation menu. The continous loading of videos when scrolling is helpful and useful. The whole UI is very aesthetically appealing. Channel UI's are designed specifically well with the sorted videos, playlists, shorts, etc, as well as how ti shows related channels at the bottom. | I dislike how the history UI is, as it is plain and uses a lot of space. The 'search history' UI is small and basic. | I will |
+| Genshin Impact Archive UI | It is very easy to use  | e | f |
 | cya | g| h | i |
 
 
