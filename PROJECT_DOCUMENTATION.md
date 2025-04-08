@@ -97,6 +97,7 @@ The application will be tested across multiple devices and tested to ensure it i
 **Security**\
 The app only collects user data related to the user's progress. The app does not include any login data or user feedback forms.
 
+<br>   
 
 # **Social, Ethical and Legal Issues**
 ### <u>Social Impact</u>
@@ -127,12 +128,9 @@ My assets will be inspired by the official drawings, so I will credit the offici
 
 | UI name | Plus | Minus | Implication |
 |---------|------|-------|------------|
-| YouTube | Very easy to use with a neat sidebar navigation menu. The continous loading of videos when scrolling is helpful and useful. The whole UI is very aesthetically appealing. Channel UI's are designed specifically well with the sorted videos, playlists, shorts, etc, as well as how ti shows related channels at the bottom. | I dislike how the history UI is, as it is plain and uses a lot of space. The 'search history' UI is small and basic. | I will |
-| Genshin Impact Archive UI | It is very easy to use  | e | f |
-| cya | g| h | i |
-
-
-
+| YouTube | Very easy to use with a neat sidebar navigation menu. The continous loading of videos when scrolling is helpful and useful. The whole UI is very aesthetically appealing. Channel UI's are designed specifically well with the sorted videos, playlists, shorts, etc, as well as how ti shows related channels at the bottom. | I dislike how the history UI is, as it is plain and uses a lot of space. The 'search history' UI is small and basic. | I will use YouTube's clean UI layout for my game to ensure all information is easily read and understood. I will try to minimize the need to have long text boxes that go from one side of the screen to another, and I will try not to include small textboxes on the side, as I find them unappealing and difficult to read.|
+| Genshin Impact Archive UI | It is very easy to use with the sideways scrolling function and the images. It is aethestically pleasing and allows for quick navigation for the user. | I don't see any problems with this UI, but I can undertand if the contract and glowing effects of the stars on the dark background may be uncomfortable for users. | I will try to implement this UI into my game for the character descriptions, but I will use lighter, pastel colours and large text to help convey infomration clearly. |
+| Angry Birds Start Screen | I really like this simple UI of a large title and play button with a simple background. I also like the smaller buttons at the bottom that are used for user customisation, and are easily accessible. | I think the fast moving background is a bit distracting. | I will try to implement a similar UI design to my game, as the large main buttons and the smaller buttonsa are very appealing to me. I do like the idea of a moving background, but perhaps something less fast and more slower and calmer, as it fits the 'nature' theme of the game and series.|
 
 
 
@@ -140,9 +138,9 @@ My assets will be inspired by the official drawings, so I will credit the offici
 
 | Software Options | Plus | Minus | Implication |
 |---------|------|-------|------------|
-| hi | a | b | c |
-| bye | d | e | f |
-| cya | g| h | i |
+| Unity | Unity is a really good software for video game design, with many useful features to help the creation process. It has many accessible pluggins and supports a wide range of platforms. | b | c |
+| Unreal Engine | Unreal engine is really good for all types of visuals, and is a very good software to use for all programers and non-programmers. It has a very comprehensive logic to create things, and can even vcreate games without the need for extensive code. Unreal Engine is also very quick at prototyping and testing things which is extremely beneifical. | e | f |
+| Gamemaker | g| h | i |
 
 # **Wireframes**
 
