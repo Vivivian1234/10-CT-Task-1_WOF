@@ -119,6 +119,8 @@ If I were to launch this website, it would fall under 'fair use' as it only uses
 
 # **Gantt Chart**
 
+![Gantt_chart](/images/Gantt_chart.png "Gantt_chart")
+
 # **Researching Existing UIs**
 
 | UI name | Plus | Minus | Implication |
@@ -137,9 +139,9 @@ If I were to launch this website, it would fall under 'fair use' as it only uses
 
 
 # **Wireframes**
-![Wireframe_1](/images/Wireframe_1.png "SWireframe_1")
-![Wireframe_2](/images/Wireframe_2.png "SWireframe_2")
-![Wireframe_2](/images/Wireframe_3.png "SWireframe_2")
+![Wireframe_1](/images/Wireframe_1.png "Wireframe_1")
+![Wireframe_2](/images/Wireframe_2.png "Wireframe_2")
+![Wireframe_3](/images/Wireframe_3.png "Wireframe_3")
 
 
 **Feedback**
