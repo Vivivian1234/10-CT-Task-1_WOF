@@ -137,7 +137,9 @@ If I were to launch this website, it would fall under 'fair use' as it only uses
 
 
 # **Wireframes**
-"You need to draw at least 3 wireframes to show what your user experience might look like."
+![Wireframe_1](/images/Wireframe_1.png "SWireframe_1")
+![Wireframe_2](/images/Wireframe_2.png "SWireframe_2")
+![Wireframe_2](/images/Wireframe_3.png "SWireframe_2")
 
 
 **Feedback**
